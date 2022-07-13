@@ -4,8 +4,8 @@ SEOTitle: San' Blog
 header-img: img/home-bg.jpg
 email: huxpro@gmail.com
 description: "This website is more like a online summarization about what I've learned。"
-keyword: "SanPix, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://github.com/kkie02/QingGSOC22.github.io"              # your host, for absolute URL
+keyword: "GSOC22, NLP"
+url: "https://kkie02.github.io/QingGSOC22.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
